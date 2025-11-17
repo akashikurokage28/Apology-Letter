@@ -54,6 +54,7 @@ main{
     border-radius: 5px;
     border: 1px solid #181818;
     box-shadow: 0 2px 6px #181818;
+    color: #efefef;
 }
 
 @keyframes slide-in{
