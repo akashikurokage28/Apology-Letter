@@ -1,5 +1,7 @@
 const textPlaceholder = document.querySelector(".text-placeholder");
 const letterArr = [
+    "",
+    "",
     "Dear Joyce Cagang Saraza,",
     "",
     "First of all, gusto kong humingi ng sorry nagsaktan ko at nasira ko ang pagtitiwala mo sakin.",
